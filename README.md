@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AshenMark
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning python & Back end web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on any interesting open source projects 
+- 📫 Reach me on Github
 
 <!---
 AshenMark/AshenMark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
