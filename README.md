@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshenMark
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning python & Back end web development
+- 🌱 I’m currently learning python back end web development and flutter
 - 💞️ I’m looking to collaborate on any interesting open source projects 
 - 📫 Reach me on Github
 
